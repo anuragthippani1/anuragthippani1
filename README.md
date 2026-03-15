@@ -102,13 +102,7 @@ AWS • Azure • Git • Docker • Vercel
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuragthippani1\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragthippani1\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🎯 Currently
 
