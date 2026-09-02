@@ -4,11 +4,11 @@
 AI Engineer • Machine Learning Developer • Builder of Intelligent Systems
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://portfolio-beta-six-xfydzz7f59.vercel.app">🌐 Portfolio</a> •
 <a href="https://www.linkedin.com/in/anuragvarmathippani/">💼 LinkedIn</a> •
 <a href="mailto:anuragthippani8@gmail.com">📧 Email</a>
-</p>
+</p> -->
 
 ---
 
